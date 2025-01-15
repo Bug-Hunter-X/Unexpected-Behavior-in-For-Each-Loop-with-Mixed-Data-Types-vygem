@@ -1,0 +1,1 @@
+This example demonstrates a common issue in ActionScript related to weak typing and the for each loop. When iterating through an array containing different data types, unexpected behavior or runtime errors might occur. The solution involves type checking within the loop or using a typed array.
